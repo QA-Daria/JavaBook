@@ -15,6 +15,6 @@ public class ScannerInfo {
         System.out.println("How old are you? ");
         int age = in.nextInt();
         System.out.println(age);
-        
+
     }
 }
