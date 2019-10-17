@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RefactorType">
+  <component name="RunManager" selected="Application.MathimaticFunction">
     <configuration name="MathimaticFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.MathimaticFunction" />
       <module name="JavaBookStarted" />
@@ -106,8 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RefactorType" />
         <item itemvalue="Application.MathimaticFunction" />
+        <item itemvalue="Application.RefactorType" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.StConstats" />
         <item itemvalue="Application.Welcome" />
@@ -137,16 +137,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Chapter3/RefactorType.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

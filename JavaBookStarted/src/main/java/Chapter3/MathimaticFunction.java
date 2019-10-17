@@ -10,5 +10,15 @@ public class MathimaticFunction {
         double w = Math.pow(u, 0);
         System.out.println(w);
 
+        int arPrisv=0;
+
+        for (int i = 0; i < 4; i++){
+            arPrisv+=4;
+            System.out.println("St"+arPrisv);
+        }
+        System.out.println("See"+arPrisv);
+
+
+
     }
 }
