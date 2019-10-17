@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JobWithStrings">
+  <component name="RunManager" selected="Application.ScannerInfo">
     <configuration name="ForEnumTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.ForEnumTask" />
       <module name="JavaBookStarted" />
@@ -91,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefactorType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.RefactorType" />
+    <configuration name="ScannerInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ScannerInfo" />
       <module name="JavaBookStarted" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerInfo" />
         <item itemvalue="Application.JobWithStrings" />
         <item itemvalue="Application.ForStrings" />
         <item itemvalue="Application.ForEnumTask" />
         <item itemvalue="Application.MathimaticFunction" />
-        <item itemvalue="Application.RefactorType" />
       </list>
     </recent_temporary>
   </component>

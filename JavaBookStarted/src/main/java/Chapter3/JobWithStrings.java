@@ -47,5 +47,16 @@ public class JobWithStrings {
 
         //Построение символьных строк
 
+        char ch = '!';
+        String str = "Hello";
+
+        StringBuilder builder = new StringBuilder();
+        builder.append(ch);
+        builder.append(str);
+        String complite  = builder.toString();
+        System.out.println(complite);
+
+
+
     }
 }
