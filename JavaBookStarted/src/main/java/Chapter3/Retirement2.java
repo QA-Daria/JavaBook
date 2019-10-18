@@ -17,8 +17,7 @@ public class Retirement2 {
 
         String input;
 
-        do
-            {
+        do {
             balance+=payment;
             double interest = balance + interestRate/100;
             balance += interest;
@@ -28,8 +27,8 @@ public class Retirement2 {
             System.out.printf("After year %d, your balance is %,.2f%n", year, balance);
 
             System.out.print("Ready toretire? (Y/N) ");
-            input = in.next ();
+            input = in.next();
         }
-        while (!input.equals("Y"));
+        while (input.equals("N"));
     }
 }
