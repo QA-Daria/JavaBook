@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForSwotch">
+  <component name="RunManager" selected="Application.MassJob">
     <configuration name="ForSwotch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.ForSwotch" />
       <module name="JavaBookStarted" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.OperControl" />
+    <configuration name="MassJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.Mass.MassJob" />
       <module name="JavaBookStarted" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
+          <option name="PATTERN" value="Chapter3.Mass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MassJob" />
         <item itemvalue="Application.ForSwotch" />
         <item itemvalue="Application.LotteryOdds" />
         <item itemvalue="Application.Retirement2" />
         <item itemvalue="Application.Retirement" />
-        <item itemvalue="Application.OperControl" />
       </list>
     </recent_temporary>
   </component>
