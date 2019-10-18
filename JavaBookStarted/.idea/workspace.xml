@@ -38,7 +38,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LotteryOdds">
+  <component name="RunManager" selected="Application.ForSwotch">
+    <configuration name="ForSwotch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.ForSwotch" />
+      <module name="JavaBookStarted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LotteryOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.LotteryOdds" />
       <module name="JavaBookStarted" />
@@ -91,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.ScannerInfo" />
-      <module name="JavaBookStarted" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForSwotch" />
         <item itemvalue="Application.LotteryOdds" />
         <item itemvalue="Application.Retirement2" />
         <item itemvalue="Application.Retirement" />
         <item itemvalue="Application.OperControl" />
-        <item itemvalue="Application.ScannerInfo" />
       </list>
     </recent_temporary>
   </component>
