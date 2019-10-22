@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MassTwo">
+  <component name="RunManager" selected="Application.MassThree">
     <configuration name="ForSwotch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.ForSwotch" />
       <module name="JavaBookStarted" />
@@ -52,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.LotteryOdds" />
+    <configuration name="LotteryDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.Mass.LotteryDrawing" />
       <module name="JavaBookStarted" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
+          <option name="PATTERN" value="Chapter3.Mass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,6 +67,19 @@
     </configuration>
     <configuration name="MassJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter3.Mass.MassJob" />
+      <module name="JavaBookStarted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter3.Mass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MassThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter3.Mass.MassThree" />
       <module name="JavaBookStarted" />
       <extension name="coverage">
         <pattern>
@@ -91,26 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Retirement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter3.Retirement2" />
-      <module name="JavaBookStarted" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MassThree" />
+        <item itemvalue="Application.LotteryDrawing" />
         <item itemvalue="Application.MassTwo" />
         <item itemvalue="Application.MassJob" />
         <item itemvalue="Application.ForSwotch" />
-        <item itemvalue="Application.LotteryOdds" />
-        <item itemvalue="Application.Retirement2" />
       </list>
     </recent_temporary>
   </component>
@@ -137,5 +137,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Chapter3/Mass/LotteryDrawing.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
