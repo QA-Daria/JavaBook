@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter3.beforeLesson;
 
 public class MathimaticFunction {
     public static void main(String[] args) {

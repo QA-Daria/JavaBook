@@ -10,16 +10,12 @@ public class MassTwo {
 
        int [] lucky = smallPrimes;
        lucky[2] = 12;
-
-
        int [] neSort = {5, 3, 0};
 
         Arrays.sort(neSort);
 
-        for (int i = 0; i < neSort.length; i++){
+        for (int i = 0; i < neSort.length; i++) System.out.println(neSort[i]);
 
-            System.out.println(neSort[i]);
-        }
 
        int [] copieLucky = Arrays.copyOf(lucky, 2* lucky.length);
     }
